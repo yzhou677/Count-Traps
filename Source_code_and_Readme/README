@@ -1,0 +1,1 @@
+Use make and make qemu to start QEMU. Makefile has been updated and just type four tests’ names(test1fortraps/test2fortraps/test3fortraps/test4fortraps) one by one into QEMU and the results are printed out.
